@@ -23,4 +23,12 @@ This is a **source-code portfolio**, not a hosted PHP website. GitHub Pages does
 
 ## Screenshots
 
-Add screenshots of the running site here to help reviewers preview the project without installing PHP.
+### Home
+![Portfolio Home](Screenshot%202026-11-16%20161309.png)
+
+### Certifications
+![Technical Certifications](Screenshot%202026-11-16%20161333.png)
+
+### Contact
+![Contact Form](Screenshot%202026-11-16%20161356.png)
+
